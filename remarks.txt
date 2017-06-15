@@ -1,0 +1,5 @@
+PreparedStatement pstmt; //select or search query ko lagi
+Statement stmt; //java.sql baata import. insert garne
+ResultSet rs; //predefined class.
+executeUpdate(); //this is function fo statement class
+executeQuery;
